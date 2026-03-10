@@ -5,4 +5,3 @@ if (idade >=18)
 } else {
     console.log("alexandre é menor de idade")
 }
-  
